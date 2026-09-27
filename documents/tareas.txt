@@ -1,0 +1,2 @@
+Usuario 1 tiene la tarea X
+Usuario 2 tiene la tarea Y
